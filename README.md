@@ -7,7 +7,7 @@ undergraduate software engineer
 Hi there! I'm Shemira Geenath, currently pursuing a B.Sc. (Hons) in Software Engineering at SLIIT City University, affiliated with the University of Bedfordshire (UK). As a passionate software engineering student, I enjoy building full-stack applications and solving real-world problems using modern web technologies. My GitHub features several MERN stack projects, mobile apps, and desktop systems. I'm always eager to learn, build, and collaborate on impactful software projects.
 
 - 🌍  I'm based in Awissawella, Sri Lanka  
-- ✉️  You can contact me at [shemigeenath1@gmail.com](mailto:shemigeenath1@gmail.com) 
+- ✉️  You can contact me at [shemigeenath1@gmail.com](mailto:shemigeenath1@gmail.com)  
 
 ---
 
@@ -34,12 +34,13 @@ Hi there! I'm Shemira Geenath, currently pursuing a B.Sc. (Hons) in Software Eng
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
 </a>
 
+
 </p>
 
 ---
 
 
-### 🌐 Social Links
+### 🌐 Social Links 
 
 <p align="left">
 <a href="https://github.com/ShemiGeenath"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a>
