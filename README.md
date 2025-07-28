@@ -1,4 +1,4 @@
-Hi 👋 My name is Shemira Geenath
+Hi 👋 I'm Shemira Geenath
 ================================
 
 undergraduate software engineer
